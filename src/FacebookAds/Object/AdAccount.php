@@ -74,6 +74,7 @@ class AdAccount extends AbstractCrudObject {
     AdAccountFields::TOS_ACCEPTED,
     AdAccountFields::USERS,
     AdAccountFields::TAX_ID_STATUS,
+  	AdAccountFields::OWNER,
   );
 
   /**

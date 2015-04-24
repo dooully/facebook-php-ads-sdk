@@ -34,4 +34,10 @@ abstract class AdCampaignFields {
   const IS_COMPLETED = 'is_completed';
   const BUYING_TYPE = 'buying_type';
   const PROMOTED_OBJECT = 'promoted_object';
+
+  const STOP_TIME = 'stop_time';
+  const START_TIME = 'start_time';
+  const CAN_USE_SPEND_CAP = 'can_use_spend_cap';
+  const STATS = 'stats';
+
 }

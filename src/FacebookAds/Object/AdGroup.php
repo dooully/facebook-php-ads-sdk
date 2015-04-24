@@ -76,6 +76,7 @@ class AdGroup extends AbstractArchivableCrudObject
     AdGroupFields::CAMPAIGN_GROUP_ID,
     AdGroupFields::CONVERSION_SPECS,
     AdGroupFields::CREATED_TIME,
+    AdGroupFields::CREATIVE_IDS,
     AdGroupFields::FAILED_DELIVERY_CHECKS,
     AdGroupFields::NAME,
     AdGroupFields::TARGETING,
@@ -83,6 +84,7 @@ class AdGroup extends AbstractArchivableCrudObject
     AdGroupFields::UPDATED_TIME,
     AdGroupFields::VIEW_TAGS,
     AdGroupFields::CREATIVE,
+    AdGroupFields::OBJECTIVE,
     AdGroupFields::REDOWNLOAD,
     AdGroupFields::SOCIAL_PREFS,
   );

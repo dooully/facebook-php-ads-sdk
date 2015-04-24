@@ -60,5 +60,6 @@ abstract class AdAccountFields {
   const TIMEZONE_OFFSET_HOURS_UTC = 'timezone_offset_hours_utc';
   const TOS_ACCEPTED = 'tos_accepted';
   const USERS = 'users';
+  const OWNER = 'owner';
   const TAX_ID_STATUS = 'tax_id_status';
 }
